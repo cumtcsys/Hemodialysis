@@ -1,0 +1,15 @@
+item.csv
+总属性数：11
+总记录数：25917
+
+patient.csv
+总属性数：95（包括病人id和姓名，且包括dateSt和birth，删除TSAT）
+总记录数：27
+
+patient_date.csv
+总属性数：3
+总记录数：27
+
+record.csv
+总属性数：26（reuse_times为空，故删除）
+总记录数：2593

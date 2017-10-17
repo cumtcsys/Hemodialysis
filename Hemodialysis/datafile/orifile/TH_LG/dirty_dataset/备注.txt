@@ -1,0 +1,15 @@
+时间：2009.1.1--2014.12.31
+record.csv （保留空白，删除tx_id:725）（治疗记录）
+patient_id:415--637
+记录：3059
+字段：26
+
+patient.csv
+记录：130
+字段：54
+
+item.csv（检查项目）
+记录：132234
+字段：11
+{tx_id:透析id ; check_time:检查时间 ; vein_pressure:静脉压 ; membrane_pressure:膜压 ; blood_flow_volume:血流量 ; 
+ body_temperature:体温 ; SBP:收缩压 ; DBP:舒张压 ; pulse:脉搏 ; breathe:呼吸}

@@ -1,0 +1,6 @@
+ deep/result_1_30_5000_100.csv nan nan nan nan nan nan 0
+ deep/result_1_30_2000_100.csv nan nan nan nan nan nan 0
+ deep/result_1_30_5000_100.csv nan nan nan nan nan nan 0
+ deep/result_1_30_2000_100.csv nan nan nan nan nan nan 0
+ deep/result_1_30_1000_100.csv 0.5 0.5 0.5 0.5 1866.83086442 nan 1
+ deep/result_1_30_500_100.csv 0.974977552565 0.982536796537 0.978562856286 0.975306908823 320.600953214 nan 600
